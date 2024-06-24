@@ -5,9 +5,7 @@ Düğümünüze Putty veya terminal aracılığıyla bağlanın ve aşağıdaki 
 ```
 sudo apt-get update && sudo apt-get upgrade -y 
 ```
-Bağımlılıkları yükleyin :
-
-Bağımlılıkların yüklenmesi 5 dakika kadar sürebilir
+Bağımlılıkları yükleyin : (Bağımlılıkların yüklenmesi 5 dakika kadar sürebilir)
 ```
 sudo apt-get install curl screen git-all build-essential glibc-source pkg-config libssl-dev clang git-lfs -y
 ```
