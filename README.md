@@ -5,7 +5,7 @@ Düğümünüze Putty veya terminal aracılığıyla bağlanın ve aşağıdaki 
 ```
 sudo apt-get update && sudo apt-get upgrade -y 
 ```
-Install the Dependecies :
+Bağımlılıkları yükleyin :
 
 Bağımlılıkların yüklenmesi 5 dakika kadar sürebilir
 ```
