@@ -1,4 +1,7 @@
 # Nubit
+Sistem Gereksinimleri Ubuntu 22.04 olur : 
+![image](https://github.com/aksamlan/Nubit/blob/main/nub3.png?raw=true)
+
 Düğümün kurulması :
 
 Düğümünüze Putty veya terminal aracılığıyla bağlanın ve aşağıdaki komutları çalıştırın :
