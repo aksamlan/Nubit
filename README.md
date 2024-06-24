@@ -54,7 +54,7 @@ Aşama 2 için puanı da https://alpha.nubit.org/ sitesine girdikten sonra aşa�
 ```
 $HOME/nubit-node/bin/nkey list --p2p.network nubit-alphatestnet-1 --node.type light
 ```
-![Screenshot_77](https://prnt.sc/Pp9aAymcjNqP)
+![image](https://github.com/aksamlan/Nubit/blob/main/nub2.png?raw=true)
 
 Buraya giriyoruz : 
-![Screenshot_77](https://prnt.sc/GRJdtQESPf1a)
+![image](https://github.com/aksamlan/Nubit/blob/main/nub1.png?raw=true)
